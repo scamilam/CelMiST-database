@@ -1,0 +1,5 @@
+GH1	Reino	Especie	accesion	fuente
+GH1	Bacteria	Abditibacteriota bacterium IAD-21	BCM92930.1	ncbi
+GH1	Bacteria	Abditibacteriota bacterium IAD-21	BCM90541.1	ncbi
+GH1	Bacteria	Abditibacteriota bacterium IAD-21	BCM93128.1	ncbi
+GH1	Bacteria	Abditibacteriota bacterium IAD-21	BCM93164.1	ncbi

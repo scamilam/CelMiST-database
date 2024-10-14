@@ -1,0 +1,5 @@
+GH1	Reino	Especie	accesion	fuente
+GH1	Bacteria	Actinoplanes oblitus	WIM94906.1	ncbi
+GH1	Bacteria	Acidipropionibacterium jensenii FAM 19038	QCV87940.1	ncbi
+GH1	Bacteria	Agromyces soli KACC 16215	UOE26568.1	ncbi
+GH1	Bacteria	Cedecea neteri	AIR61364.1	ncbi
