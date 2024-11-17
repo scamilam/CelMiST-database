@@ -1,0 +1,5 @@
+Protein Accession,Protein Title,Region Info
+BCM92930.1,"1,4-beta-D-glucan glucohydrolase [Abditibacteriota bacterium]","{'Region': SimpleLocation(ExactPosition(5), ExactPosition(438)), 'Region Name': 'BglB', 'Note': 'Beta-glucosidase/6-phospho-beta-glucosidase/beta- galactosidase [Carbohydrate transport and metabolism]; COG2723'}"
+BCM90541.1,hypothetical protein IAD21_02395 [Abditibacteriota bacterium],"{'Region': SimpleLocation(BeforePosition(105), ExactPosition(335)), 'Region Name': 'BglB', 'Note': 'Beta-glucosidase/6-phospho-beta-glucosidase/beta- galactosidase [Carbohydrate transport and metabolism]; COG2723'}"
+BCM93128.1,hypothetical protein IAD21_05016 [Abditibacteriota bacterium],"{'Region': SimpleLocation(ExactPosition(350), AfterPosition(389)), 'Region Name': 'Lyz-like', 'Note': 'lysozyme-like domains; cl00222'}"
+BCM93164.1,6-phospho-beta-galactosidase [Abditibacteriota bacterium],"{'Region': SimpleLocation(ExactPosition(70), ExactPosition(420)), 'Region Name': 'BglB', 'Note': 'Beta-glucosidase/6-phospho-beta-glucosidase/beta- galactosidase [Carbohydrate transport and metabolism]; COG2723'}"
