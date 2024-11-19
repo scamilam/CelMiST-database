@@ -1,5 +1,5 @@
 GH1	Reino	Especie	accesion	fuente
-GH1	Bacteria	Abditibacteriota bacterium IAD-21	BCM92930.1	ncbi
-GH1	Bacteria	Abditibacteriota bacterium IAD-21	BCM90541.1	ncbi
-GH1	Bacteria	Abditibacteriota bacterium IAD-21	BCM93128.1	ncbi
-GH1	Bacteria	Abditibacteriota bacterium IAD-21	BCM93164.1	ncbi
+GH1	Bacteria	Caulobacter vibrioides NA1000	ACL94627.1	ncbi
+GH1	Bacteria	Abditibacteriota bacterium	BCM90541.1	ncbi
+GH1	Bacteria	Abditibacteriota bacterium	BCM93164.1	ncbi
+GH1	Bacteria	Cedecea neteri	AIR61364.1	ncbi
